@@ -1,5 +1,2 @@
 # dataScience
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190511185227331.png)
-在学习的方向一定是需要经过各方面的考虑、斟酌、权衡的。
-
-这里旨在分享一些我在学习的过程中所收集使用到的一些书籍和资料，其中包括 数据挖掘 、算法、数据分析、机器学习、深度学习、深度学习框架、和一些大牛的笔记以及老师们的讲义供大家学习。
+![在这里插入图片描述](https://github.com/mmkliuzhiliang/dataScience/blob/master/pic/fock.png)
