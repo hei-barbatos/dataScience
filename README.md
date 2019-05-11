@@ -12,7 +12,7 @@
 
 ~~这方面的学习实则为交叉学科下面分类仅仅供参考~~ 
 ### 机器学习
-- 斯坦福机器学习课程原始讲义及笔记 \n 
+- 斯坦福机器学习课程原始讲义及笔记    
 链接：https://pan.baidu.com/s/1mA7hsbN5CUr6_t2LtIWWBQ 
 提取码：xqcv 
 
@@ -20,11 +20,11 @@
 链接：https://pan.baidu.com/s/1FYIDELFcwt0Rh-MvD1OR7g 
 提取码：rkqd 
 
-- Data Mining - Practical Machine Learning Tools and Techniques
+- Data Mining - Practical Machine Learning Tools and Techniques  
 链接：https://pan.baidu.com/s/1Tnw_xiFlAQ-TnEbrCexI1A 
 提取码：h21b 
 
-- 统计学方法与数据分析
+- 统计学方法与数据分析  
 链接：https://pan.baidu.com/s/1EmJUf23j6JJY9xM4GhEfew 
 提取码：ph9t 
 
